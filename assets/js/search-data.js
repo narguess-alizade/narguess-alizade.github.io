@@ -405,14 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-passed-my-ph-d-qualifying-exam",
+            },},{id: "news-i-passed-my-ph-d-qualifying-exam",
           title: 'I passed my Ph.D. qualifying exam!',
           description: "",
           section: "News",},{id: "news-i-gave-a-flash-talk-and-presented-a-poster-at-the-aps-division-of-fluid-dynamics-annual-meeting-interact-session",
           title: 'I gave a flash talk and presented a poster at the APS Division...',
+          description: "",
+          section: "News",},{id: "news-i-passed-the-physics-ph-d-prelim-exam-sparkles",
+          title: 'I passed the physics Ph.D. prelim exam! :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

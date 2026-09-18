@@ -411,12 +411,10 @@ ninja.data = [{
           section: "News",},{id: "news-i-passed-my-ph-d-qualifying-exam",
           title: 'I passed my Ph.D. qualifying exam!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-gave-a-flash-talk-and-presented-a-poster-at-the-aps-division-of-fluid-dynamics-annual-meeting-interact-session",
+          title: 'I gave a flash talk and presented a poster at the APS Division...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

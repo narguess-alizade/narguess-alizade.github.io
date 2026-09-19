@@ -8,6 +8,24 @@ nav_order: 2
 ---
 
 <div class="projects">
+    <div class="row align-items-center mb-5">
+    <div class="col-md-8">
+      <h3>Bacterial Sliding Motility</h3>
+      <p>
+        Studying bacterial sliding motility on surfaces, focusing on how collective cell motion and
+        mechanical interactions organize spreading colonies.
+      </p>
+    </div>
+    <div class="col-md-4 text-center">
+      <img
+        src="{{ '/assets/img/projects/bacterial-sliding-motility.jpg' | relative_url }}"
+        alt="Bacterial sliding motility"
+        class="img-fluid rounded z-depth-1"
+        style="max-width: 240px"
+      >
+    </div>
+  </div>
+
   <div class="row align-items-center mb-5">
     <div class="col-md-8">
       <h3> Theory for Polyelectrolyte Hydrogel Diffusiophoresis </h3>
@@ -45,21 +63,4 @@ nav_order: 2
     </div>
   </div>
 
-  <div class="row align-items-center mb-5">
-    <div class="col-md-8">
-      <h3>Bacterial Sliding Motility</h3>
-      <p>
-        Studying bacterial sliding motility on surfaces, focusing on how collective cell motion and
-        mechanical interactions organize spreading colonies.
-      </p>
-    </div>
-    <div class="col-md-4 text-center">
-      <img
-        src="{{ '/assets/img/projects/bacterial-sliding-motility.jpg' | relative_url }}"
-        alt="Bacterial sliding motility"
-        class="img-fluid rounded z-depth-1"
-        style="max-width: 240px"
-      >
-    </div>
-  </div>
 </div>

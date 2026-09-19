@@ -6,3 +6,5 @@ related_posts: false
 ---
 
 I passed my Ph.D. qualifying exam!
+
+---

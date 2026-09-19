@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Narguess, and I am a PhD candidate in Physics at Virginia Tech. My field of research is within theoretical Soft Matter, Biological Physics, and Active Matter.
+Hello! My name is Narguess, I am a Physics PhD candidate at Virginia Tech working with Professor Jing Chen in theoretical and computational biophysics. My research focuses on understanding how physical interactions and mechanics shape the behavior and organization of living systems.
+
+More broadly, I am interested in soft matter, the physics of living systems, self-organization, and the physical principles underlying the emergence of life. I am also enthusiastic about science communication, community engagement,

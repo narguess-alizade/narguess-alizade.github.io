@@ -13,8 +13,8 @@ nav_order: 2
       <h3> Theory for Polyelectrolyte Hydrogel Diffusiophoresis </h3>
       <p>
         Developing continuum theory for diffusiophoresis in polyelectrolyte hydrogels — how imposed
-        solute gradients generate osmotic and electric stresses that deform and migrate the polymer
-        network. The models couple network mechanics with ion transport and solvent flow.
+        ionic gradients generate osmotic and electric stresses that deform the gel polymer
+        network and whether these deformations are superdiffusive. The models couple polymer network mechanics, in linear and nonlinear elasticity regime, with ionic transport.
       </p>
     </div>
     <div class="col-md-4 text-center">
@@ -31,9 +31,8 @@ nav_order: 2
     <div class="col-md-8">
       <h3>Gel Diffusiophoresis Experiments</h3>
       <p>
-        Experimental investigation of the hydrogel diffusiophoresis mechanism, using microfluidic
-        solute gradients and quantitative imaging to test theoretical predictions of gel migration
-        and deformation.
+        Experimental investigation of the hydrogel diffusiophoresis mechanism in different scales; from millimeter scale PAA hydrogels to microfluidics. By generating 
+        solute gradients inside the gels and quantitative imaging, we test theoretical predictions of gel deformation.
       </p>
     </div>
     <div class="col-md-4 text-center">

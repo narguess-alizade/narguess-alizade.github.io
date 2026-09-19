@@ -5,6 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I gave a flash talk and presented a poster on polyelectrolyte hydrogel diffusiophoresis at the APS Division of Fluid Dynamics annual meeting interact session.
+I presented my work on polyelectrolyte hydrogel diffusiophoresis through a flash talk and poster at the APS Division of Fluid Dynamics (DFD) annual meeting interact session in Houston.
+
 
 ---

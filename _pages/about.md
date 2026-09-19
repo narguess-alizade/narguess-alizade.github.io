@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Physics, Center for Soft Matter and Biological Physics, Virginia Tech 
+nav_order: 1
+subtitle: <a href='#'>Affiliations</a>. Department of Physics, Center for Soft Matter and Biological Physics, Virginia Tech
 
 profile:
   align: right
@@ -23,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Narguess, and I am a PhD candidate in Physics at Virginia Tech. My field of research is within theoretical Soft Matter, Biological Physics, and Active Matter.  
+Hello! My name is Narguess, and I am a PhD candidate in Physics at Virginia Tech. My field of research is within theoretical Soft Matter, Biological Physics, and Active Matter.

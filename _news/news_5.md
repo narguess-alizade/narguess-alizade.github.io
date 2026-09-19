@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I attended the UMass Amherst Summer School on Soft Solids and Complex Fluids and presented a poster. 
 ---
+I attended the UMass Amherst Summer School on Soft Solids and Complex Fluids and presented a poster. 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as an APS Student Ambassador for the 2026 cohort! 🍾
+I was selected as an American Physical Society (APS) Student Ambassador for the 2026 cohort! 🍾

@@ -10,7 +10,7 @@ nav_order: 2
 <div class="projects">
   <div class="row align-items-center mb-5">
     <div class="col-md-8">
-      <h3>Polyelectrolyte Hydrogel Diffusiophoresis (Theory)</h3>
+      <h3> Theory for Polyelectrolyte Hydrogel Diffusiophoresis </h3>
       <p>
         Developing continuum theory for diffusiophoresis in polyelectrolyte hydrogels — how imposed
         solute gradients generate osmotic and electric stresses that deform and migrate the polymer

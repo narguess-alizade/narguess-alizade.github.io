@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I gave a flash talk and presented a poster at the APS Division of Fluid Dynamics annual meeting interact session.
+I gave a flash talk and presented a poster on polyelectrolyte hydrogel diffusiophoresis at the APS Division of Fluid Dynamics annual meeting interact session.
 
 ---

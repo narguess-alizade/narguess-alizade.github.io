@@ -407,7 +407,47 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-i-passed-my-ph-d-qualifying-exam",
+      },{id: "books-thus-spoke-zarathustra",
+          title: 'Thus Spoke Zarathustra',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thus-spoke-zarathustra/";
+            },},{id: "books-what-is-life",
+          title: 'What Is Life?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/what-is-life/";
+            },},{id: "books-when-nietzsche-wept",
+          title: 'When Nietzsche Wept',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/when-nietzsche-wept/";
+            },},{id: "books-biological-physics-energy-information-life",
+          title: 'Biological Physics: Energy, Information, Life',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/biological-physics/";
+            },},{id: "books-the-schopenhauer-cure",
+          title: 'The Schopenhauer Cure',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the-schopenhauer-cure/";
+            },},{id: "books-physical-biology-of-the-cell",
+          title: 'Physical Biology of the Cell',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/physical-biology-of-the-cell/";
+            },},{id: "books-sapiens-a-brief-history-of-humankind",
+          title: 'Sapiens: A Brief History of Humankind',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sapiens/";
+            },},{id: "books-soft-matter-physics",
+          title: 'Soft Matter Physics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/soft-matter-physics/";
+            },},{id: "news-i-passed-my-ph-d-qualifying-exam",
           title: 'I passed my Ph.D. qualifying exam!',
           description: "",
           section: "News",},{id: "news-i-gave-a-flash-talk-and-presented-a-poster-at-the-aps-division-of-fluid-dynamics-annual-meeting-interact-session",

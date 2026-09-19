@@ -448,7 +448,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/soft-matter-physics/";
             },},{id: "news-i-passed-my-ph-d-qualifying-exam",
-          title: 'I passed my Ph.D. qualifying exam!',
+          title: 'I passed my Ph.D. qualifying exam! 🍾',
           description: "",
           section: "News",},{id: "news-i-presented-my-work-on-polyelectrolyte-hydrogel-diffusiophoresis-through-a-flash-talk-and-poster-at-the-aps-division-of-fluid-dynamics-dfd-annual-meeting-interact-session-in-houston",
           title: 'I presented my work on polyelectrolyte hydrogel diffusiophoresis through a flash talk and...',

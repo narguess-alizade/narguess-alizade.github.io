@@ -432,16 +432,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the-schopenhauer-cure/";
-            },},{id: "books-physical-biology-of-the-cell",
-          title: 'Physical Biology of the Cell',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/physical-biology-of-the-cell/";
             },},{id: "books-sapiens-a-brief-history-of-humankind",
           title: 'Sapiens: A Brief History of Humankind',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sapiens/";
+            },},{id: "books-physical-biology-of-the-cell",
+          title: 'Physical Biology of the Cell',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/physical-biology-of-the-cell/";
             },},{id: "books-soft-matter-physics",
           title: 'Soft Matter Physics',
           description: "",

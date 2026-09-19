@@ -9,7 +9,7 @@ nav_order: 2
 
 <div class="projects">
   <div class="row align-items-center mb-5">
-    <div class="col-md-7">
+    <div class="col-md-8">
       <h3>Polyelectrolyte Hydrogel Diffusiophoresis (Theory)</h3>
       <p>
         Developing continuum theory for diffusiophoresis in polyelectrolyte hydrogels — how imposed
@@ -17,17 +17,18 @@ nav_order: 2
         network. The models couple network mechanics with ion transport and solvent flow.
       </p>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-4 text-center">
       <img
         src="{{ '/assets/img/projects/polyelectrolyte-hydrogel-diffusiophoresis.jpg' | relative_url }}"
         alt="Polyelectrolyte hydrogel diffusiophoresis (theory)"
         class="img-fluid rounded z-depth-1"
+        style="max-width: 240px"
       >
     </div>
   </div>
 
   <div class="row align-items-center mb-5">
-    <div class="col-md-7">
+    <div class="col-md-8">
       <h3>Gel Diffusiophoresis Experiments</h3>
       <p>
         Experimental investigation of the hydrogel diffusiophoresis mechanism, using microfluidic
@@ -35,28 +36,30 @@ nav_order: 2
         and deformation.
       </p>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-4 text-center">
       <img
         src="{{ '/assets/img/projects/gel-diffusiophoresis-experiments.jpg' | relative_url }}"
         alt="Gel diffusiophoresis experiments"
         class="img-fluid rounded z-depth-1"
+        style="max-width: 240px"
       >
     </div>
   </div>
 
   <div class="row align-items-center mb-5">
-    <div class="col-md-7">
+    <div class="col-md-8">
       <h3>Bacterial Sliding Motility</h3>
       <p>
         Studying bacterial sliding motility on surfaces, focusing on how collective cell motion and
         mechanical interactions organize spreading colonies.
       </p>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-4 text-center">
       <img
         src="{{ '/assets/img/projects/bacterial-sliding-motility.jpg' | relative_url }}"
         alt="Bacterial sliding motility"
         class="img-fluid rounded z-depth-1"
+        style="max-width: 240px"
       >
     </div>
   </div>

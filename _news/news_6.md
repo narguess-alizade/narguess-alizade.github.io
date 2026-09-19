@@ -5,7 +5,6 @@ inline: true
 related_posts: false
 ---
 
-
 I received the James R. Dunn Award from the Physics department at Virginia Tech!
 
 ---

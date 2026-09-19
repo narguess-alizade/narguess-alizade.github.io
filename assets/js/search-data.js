@@ -462,6 +462,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-umass-amherst-summer-school-on-soft-solids-and-complex-fluids-and-presented-a-poster",
           title: 'I attended the UMass Amherst Summer School on Soft Solids and Complex Fluids...',
           description: "",
+          section: "News",},{id: "news-i-attended-the-aps-conference-for-women-and-gender-minorities-in-physics-in-washington-dc-a-fantastic-experience-connecting-with-an-inspiring-community-of-physicists",
+          title: 'I attended the APS Conference for Women and Gender Minorities in Physics in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

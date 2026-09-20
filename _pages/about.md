@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Narguess, I am a Physics PhD candidate at Virginia Tech working with [Professor Jing Chen](https://chen.biol.vt.edu/) in theoretical and computational biophysics. My research focuses on understanding how physical interactions and mechanics shape the behavior, and dynamics of living systems. More broadly, I am interested in soft matter, the physics of living systems, and the physical principles underlying the emergence of life.
+Hello! My name is Narguess, I am a Physics Ph.D. candidate at Virginia Tech working with [Professor Jing Chen](https://chen.biol.vt.edu/) in theoretical and computational biophysics. My research focuses on understanding how physical interactions and mechanics shape the behavior, and dynamics of living systems. More broadly, I am interested in soft matter, the physics of living systems, and the physical principles underlying the emergence of life.
 
 Beyond research, I am enthusiastic about science communication and community engagement. I enjoy being involved in student-led initiatives and creating opportunities for researchers to share ideas, connect with one another, and build a more supportive and inclusive scientific community.
 
